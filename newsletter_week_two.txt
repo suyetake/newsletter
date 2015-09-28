@@ -1,0 +1,11 @@
+
+This week we practiced creating repositories from scratch.
+
+Assumptions were challenged and misperceptions quickly revealed when errors cropped up. A common mistake was tracking whether the two-headed push-me pull-you LLama was coming or going remote verses local. The README location (local or remote) determined the origin master was getting cloned from Github to your local branch or whether the origin was being created from your local branch in a push. If any conflicts occurred, no clone, push, nor success was achieved. But lots of learning was acheived, yet only after copiuos discussion and whiteboarding and more trials and errors.
+
+Branding and Style are a couple of concepts we began to consider as we embark upon our own blogs and blog postings. Associating your name in searches with the technical concepts you are mastering and with the exposure granted by public github repository code work can work in your favor when seeking new future roles in companies.
+
+Working styles can vary among organizations, and a popular one is Pair Programming which we reviewed on Monday. It’s a fun analogy, yet it is surprisingly practical and successful to achieve speed and depth in project work. The obvious and not-so-obvious rules of engagement were visited, along with a ridiculous video after we already knew what we were talking about.
+
+
+
